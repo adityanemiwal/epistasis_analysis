@@ -1,0 +1,36 @@
+mean fitness        [-0.9, -0.7, -0.5, -0.3, -0.1, 0.1, 0.3, 0.5, 0.7, 0.9]
+
+Originally Positive
+Positive            [nan, 1.0, 1.0, 0.81, 0.49, 0.4, nan, 0.22, 0.2, 0.18]
+Negative            [nan, 0.0, 0.0, 0.08, 0.31, 0.47, nan, 0.77, 0.77, 0.82]
+No                  [nan, 0.0, 0.0, 0.0, 0.12, 0.08, nan, 0.0, 0.01, 0.0]
+Single Sign         [nan, 0.0, 0.0, 0.1, 0.08, 0.04, nan, 0.0, 0.0, 0.0]
+Reciprocal Sign     [nan, 0.0, 0.0, 0.02, 0.0, 0.01, nan, 0.02, 0.02, 0.0]
+
+Originally Negative
+Positive            [nan, 1.0, 1.0, 0.75, 0.18, 0.18, nan, 0.0, 0.04, 0.04]
+Negative            [nan, 0.0, 0.0, 0.15, 0.7, 0.73, nan, 0.98, 0.92, 0.94]
+No                  [nan, 0.0, 0.0, 0.03, 0.08, 0.05, nan, 0.0, 0.01, 0.01]
+Single Sign         [nan, 0.0, 0.0, 0.05, 0.02, 0.01, nan, 0.0, 0.0, 0.0]
+Reciprocal Sign     [nan, 0.0, 0.0, 0.03, 0.03, 0.03, nan, 0.02, 0.03, 0.01]
+
+Originally No
+Positive            [nan, 1.0, 1.0, 0.81, 0.25, 0.2, nan, 0.03, 0.05, 0.01]
+Negative            [nan, 0.0, 0.0, 0.03, 0.47, 0.67, nan, 0.97, 0.87, 0.93]
+No                  [nan, 0.0, 0.0, 0.03, 0.17, 0.09, nan, 0.0, 0.05, 0.0]
+Single Sign         [nan, 0.0, 0.0, 0.14, 0.08, 0.04, nan, 0.0, 0.0, 0.0]
+Reciprocal Sign     [nan, 0.0, 0.0, 0.0, 0.02, 0.01, nan, 0.0, 0.03, 0.06]
+
+Originally Single Sign
+Positive            [nan, 1.0, 1.0, 0.67, 0.19, 0.17, nan, 0.07, 0.03, 0.0]
+Negative            [nan, 0.0, 0.0, 0.07, 0.31, 0.57, nan, 0.73, 0.93, 0.97]
+No                  [nan, 0.0, 0.0, 0.0, 0.08, 0.1, nan, 0.07, 0.0, 0.0]
+Single Sign         [nan, 0.0, 0.0, 0.27, 0.36, 0.13, nan, 0.07, 0.03, 0.0]
+Reciprocal Sign     [nan, 0.0, 0.0, 0.0, 0.06, 0.03, nan, 0.07, 0.0, 0.03]
+
+Originally Reciprocal Sign
+Positive            [nan, 1.0, 1.0, 0.94, 0.15, 0.14, nan, 0.0, 0.0, 0.0]
+Negative            [nan, 0.0, 0.0, 0.0, 0.39, 0.55, nan, 0.8, 0.76, 0.94]
+No                  [nan, 0.0, 0.0, 0.0, 0.04, 0.02, nan, 0.0, 0.0, 0.0]
+Single Sign         [nan, 0.0, 0.0, 0.06, 0.05, 0.06, nan, 0.07, 0.03, 0.0]
+Reciprocal Sign     [nan, 0.0, 0.0, 0.0, 0.37, 0.23, nan, 0.13, 0.2, 0.06]
